@@ -201,3 +201,7 @@
     background: red !important;
     border: 1px solid white;
   }
+
+  .noke-nav .navbar .navbar-nav .nav-item.megamenu {
+    white-space: nowrap !important;
+}
